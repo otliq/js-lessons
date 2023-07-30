@@ -68,4 +68,3 @@ console.log(age); //18 | null if CANCEL window
 
 let isCar = confirm('Do you have a car?');//true if confirmed, else false
 console.log(isCar);
-
